@@ -1,0 +1,24 @@
+packages.
+
+*development 
+nodemon
+
+
+*production
+sharp
+validate-image-type 
+http-errors 
+multer 
+nodemailer 
+passportjs 
+express-rate-limit 
+bcrypt 
+jwt 
+mysql2 
+sequelize orm 
+helmet 
+ejs 
+express-ejs-layouts 
+dotenv 
+express-session
+express
